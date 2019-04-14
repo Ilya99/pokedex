@@ -1,5 +1,4 @@
 # pokedex
-![screenshot]
 ## Development
 Install modules
 ```sh
